@@ -1,0 +1,20 @@
+h1 {
+  text-align: center;
+  text-shadow: 100px black;
+}
+
+button {
+  background-color: blueviolet;
+  color: white;
+  border-radius: 5px;
+}
+
+.row {
+  width: 20rem;
+  height: 15rem;
+  background-color: lightblue;
+  display: block;
+  justify-content: center;
+  padding: 1rem;
+  margin: 1rem;
+}
